@@ -14,4 +14,4 @@ function updateCounter() {
 
 const debouncedUpdateCounter = _.debounce(updateCounter, 300);
 
-$('#start-btn').on('click', debouncedUpdateCounter);
+$('#count').on('click', debouncedUpdateCounter);
