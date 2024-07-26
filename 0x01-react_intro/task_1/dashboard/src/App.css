@@ -1,0 +1,24 @@
+.App-header {
+  display: flex;
+  align-items: center;
+  color: #f02b5c;
+  border-bottom: 4px solid #f02b5c;
+}
+
+.App-header img {
+  width: 200px;
+  height: 200px;
+}
+
+.App-body {
+  height: 400px;
+  border-bottom: 4px solid #f02b5c;
+  margin-top: 40px;
+
+}
+
+.App-footer {
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+}
