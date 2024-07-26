@@ -1,5 +1,6 @@
 import Holberton_logo from './Holberton_logo.jpg';
-import pp from './App.css'
+import './App.css'
+import { getFullYear, getFooterCopy } from '../../../utils';
 
 function App() {
   return (
@@ -24,7 +25,7 @@ function App() {
     <div className="App-footer">
       <footer>
         <p>
-        Copyright 2020 - holberton School
+        Copyright {getFullYear()} - {getFooterCopy(true)}
         </p>
       </footer>
     </div>

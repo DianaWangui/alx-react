@@ -1,7 +1,7 @@
 function getFullYear() {
   return (
-    new Date().getFullYear();
-  )
+    new Date().getFullYear()
+  );
 }
 
 function getFooterCopy(isIndex) {
