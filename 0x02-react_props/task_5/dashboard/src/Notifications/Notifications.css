@@ -1,0 +1,18 @@
+:root {
+  --color-brand: #e01d3f;
+}
+
+.Notifications {
+  border: 1px dotted var(--color-brand);
+  padding: 5px;
+}
+
+[data-priority="default"] {
+  color: #210a61;
+}
+[data-priority="urgent"] {
+  color: #e01d3f;
+}
+.Notifications img {
+  width: 20px;
+}
