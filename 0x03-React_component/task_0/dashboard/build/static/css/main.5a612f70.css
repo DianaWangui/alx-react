@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;min-height:100vh}.App-header{align-items:center;border-bottom:2px solid #e0354b;display:flex;justify-content:space-between;padding:10px}.App-header h1{color:#e0354b;font-weight:800}.App-body{flex-grow:1;padding:10px}.App-footer{border-top:2px solid #e0354b;font-style:italic;margin-top:auto;padding:10px}.App-footer p{text-align:center}.Form{display:flex;gap:10px}.Notifications{border:2px dashed red;padding:10px}[data-priority=default]{color:blue}[data-priority=urgent]{color:red}
+/*# sourceMappingURL=main.5a612f70.css.map*/

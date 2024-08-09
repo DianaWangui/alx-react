@@ -1,0 +1,14 @@
+
+  .App-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #E0354B;
+    padding: 10px;
+  }
+  
+  .App-header h1{
+    color: #E0354B;
+    font-weight: 800;
+  }
+  

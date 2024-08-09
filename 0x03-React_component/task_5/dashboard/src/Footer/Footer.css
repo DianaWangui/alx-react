@@ -1,0 +1,11 @@
+
+.App-footer{
+    border-top: 2px solid #E0354B;
+    margin-top: auto;
+    padding: 10px;
+    font-style: italic;
+  }
+  
+  .App-footer p{
+    text-align: center;
+  }

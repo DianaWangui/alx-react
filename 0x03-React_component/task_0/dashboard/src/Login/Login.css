@@ -1,0 +1,10 @@
+.App-body{
+    flex-grow: 1;
+    padding: 10px;
+  }
+
+  .Form{
+    display: flex;
+    gap: 10px;
+  }
+  
